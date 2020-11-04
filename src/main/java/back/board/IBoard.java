@@ -2,7 +2,7 @@ package back.board;
 
 public interface IBoard {
 
-    String AVAILABLE_SQUARE = "-1";
+    String AVAILABLE_SQUARE = " ";
     String EMPTY_SQUARE = ".";
 
     /**
