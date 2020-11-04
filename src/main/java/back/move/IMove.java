@@ -1,4 +1,4 @@
-package back;
+package back.move;
 
 public interface IMove {
 
